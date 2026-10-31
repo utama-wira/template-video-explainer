@@ -1,0 +1,11 @@
+{
+  "name": "template-video-explainer",
+  "private": true,
+  "description": "Font untuk template video explainer 9:16 (semua berlisensi SIL Open Font License)",
+  "dependencies": {
+    "@fontsource/anton": "^5.0.0",
+    "@fontsource/baloo-2": "^5.0.0",
+    "@fontsource/caveat": "^5.0.0",
+    "@fontsource/plus-jakarta-sans": "^5.0.0"
+  }
+}
